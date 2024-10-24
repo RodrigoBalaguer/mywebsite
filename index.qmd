@@ -1,26 +1,26 @@
 ---
-title: "Finley Malloc"
+title: "Rodrigo Balaguer-Romano"
 about:
-  template: trestles
-  image: avatar.jpg
+  template: jolla
+  image: Foto2.png
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
+      href: "mailto: rodrigo.balaguer.romano@gmail.com"
+#   - icon: mastodon
+#     href: https://joinmastodon.org
+#  - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+#      href: https://bsky.app
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
+      href: https://x.com/balaguerromano
     - icon: github
-      href: https://github.com
+      href: https://github.com/RodrigoBalaguer
     - icon: linkedin
-      href: https://linkedin.com/
+      href: https://www.linkedin.com/in/rodrigo-balaguer-romano-5360b7259/
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=HO43Q44AAAAJ&hl=es
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
+      href: https://orcid.org/0000-0003-2808-6777
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
@@ -29,18 +29,21 @@ about:
     #   href: https://github.com
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+My research interests address the assessment of global change impacts over forests, with the aim of contributing to the development of adaptive strategies. Under a ecoinformatic perspective, I study the functioning and dynamics of forest ecosystems, and its feed-backs with environmental processes such as rewilding, wildfire activity and carbon balances.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+PhD in Science by the National Distance Education University (UNED, 2023)
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+MRes in Biodiversity Conservation, Management and Restoration by the University of Granada (UGR, 2019) 
+
+BSc in Biology by the Autonomous University of Madrid (UAM, 2018)
+
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+
+
+
+
