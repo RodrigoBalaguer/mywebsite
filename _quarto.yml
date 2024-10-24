@@ -6,7 +6,7 @@ project:
 website:
   title: "R.Balaguer-Romano"
   description: "I am a scientist"
-  site-url: https://
+  site-url: https://github.com/RodrigoBalaguer/mywebsite
   repo-url: https://github.com/RodrigoBalaguer/mywebsite.git
   # favicon: logo.png
   twitter-card: true
