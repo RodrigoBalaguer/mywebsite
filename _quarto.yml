@@ -7,7 +7,7 @@ website:
   title: "R.Balaguer-Romano"
   description: "I am a scientist"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  repo-url: https://github.com/RodrigoBalaguer/mywebsite
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
