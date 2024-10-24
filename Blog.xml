@@ -6,45 +6,45 @@
       version="2.0">
 <channel>
 <title>R.Balaguer-Romano</title>
-<link>https://Blog.html</link>
-<atom:link href="https://Blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://github.com/RodrigoBalaguer/mywebsite/Blog.html</link>
+<atom:link href="https://github.com/RodrigoBalaguer/mywebsite/Blog.xml" rel="self" type="application/rss+xml"/>
 <description>I am a scientist</description>
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Mon, 21 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>The value of contemplative ecology</title>
   <dc:creator>John Doe</dc:creator>
-  <link>https://posts/another-post.html</link>
+  <link>https://github.com/RodrigoBalaguer/mywebsite/posts/another-post.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://projects/contemplation.jpg" class="img-fluid"></p>
+<p><img src="https://github.com/RodrigoBalaguer/mywebsite/projects/contemplation.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>contemplative</category>
-  <guid>https://posts/another-post.html</guid>
+  <guid>https://github.com/RodrigoBalaguer/mywebsite/posts/another-post.html</guid>
   <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The value of computational ecology</title>
   <dc:creator>John Doe</dc:creator>
-  <link>https://posts/new-post.html</link>
+  <link>https://github.com/RodrigoBalaguer/mywebsite/posts/new-post.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://projects/code.jpg" class="img-fluid"></p>
+<p><img src="https://github.com/RodrigoBalaguer/mywebsite/projects/code.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>computational</category>
-  <guid>https://posts/new-post.html</guid>
+  <guid>https://github.com/RodrigoBalaguer/mywebsite/posts/new-post.html</guid>
   <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>

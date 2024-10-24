@@ -1,1 +1,1 @@
-Sitemap: https://sitemap.xml
+Sitemap: https://github.com/RodrigoBalaguer/mywebsite/sitemap.xml
